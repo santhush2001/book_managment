@@ -16,11 +16,6 @@ A simple Laravel web application to manage books and authors, with user authenti
 
 ---
 
-## 📷 Screenshots
-
-> 📌 Include some screenshots here (dashboard, books list, report PDF, etc.)
-
----
 
 ## 🛠️ Tech Stack
 
